@@ -1,2 +1,9 @@
 # Todo-List
-A very first and simple project to test ReactJS
+A very first and simple todo list project to test ReactJS
+
+Goals : 
+  - Think about functionnalities (Add & remove tasks)
+  - Create a simple mockup on Figma
+  - Set up ReactJS environnement 
+  - Implement functionnalities using ReactJS
+  - Put the project on GitHub 

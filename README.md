@@ -5,5 +5,5 @@ Goals :
   - Think about functionnalities (Add & remove tasks)
   - Create a simple mockup on Figma
   - Set up ReactJS environnement 
-  - Implement functionnalities using ReactJS
+  - Implement functionnalities using ReactJS & Bootstrap
   - Put the project on GitHub 
